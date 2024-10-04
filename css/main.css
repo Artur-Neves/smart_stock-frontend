@@ -1,0 +1,17 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+h1{
+    color: red;
+    font-size: 20px;
+}   
+:root{
+
+}
+body{
+    font-family: 'Poppins', 'sans-serif';
+    background: #ececec;
+    height: 100vh;
+
+}
+.image-background-login{
+    background: red;
+}
